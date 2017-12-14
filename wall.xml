@@ -1,7 +1,15 @@
 <?xml version="1.0"?>
 <substratum>
-    <wallpaper id="Viktoria">
-        <link>https://lh3.googleusercontent.com/-CNs2Y4c_Dm0/WiBgku1OkAI/AAAAAAAAHDo/yN4miqu19r0DK9kLf4hD_6hJj4c_CLpxACL0BGAs/w530-h298-n-rw/heroimage2.png</link>
-        <preview>https://lh3.googleusercontent.com/-CNs2Y4c_Dm0/WiBgku1OkAI/AAAAAAAAHDo/yN4miqu19r0DK9kLf4hD_6hJj4c_CLpxACL0BGAs/w530-h298-n-rw/heroimage2.png</preview>
+    <wallpaper id="Car">
+        <link>https://raw.githubusercontent.com/folgore95/subwalls/master/viktoria1.jpg</link>
+        <preview>https://raw.githubusercontent.com/folgore95/subwalls/master/viktoria1.jpg</preview>
+    </wallpaper>
+    <wallpaper id="Christmas">
+        <link>https://raw.githubusercontent.com/folgore95/subwalls/master/viktoria2.png</link>
+        <preview>https://raw.githubusercontent.com/folgore95/subwalls/master/viktoria2.png</preview>
+    </wallpaper>
+    <wallpaper id="My Dog">
+        <link>https://raw.githubusercontent.com/folgore95/subwalls/master/artu.jpg</link>
+        <preview>https://raw.githubusercontent.com/folgore95/subwalls/master/artu.jpg</preview>
     </wallpaper>
 </substratum>
