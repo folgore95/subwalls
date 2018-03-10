@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <substratum>
+    <wallpaper id="Viktoria 000">
+        <link>https://raw.githubusercontent.com/folgore95/subwalls/master/viktoria_wall.jpg</link>
+        <preview>https://raw.githubusercontent.com/folgore95/subwalls/master/viktoria_wall.jpg</preview>
+    </wallpaper>
     <wallpaper id="Viktoria 001">
         <link>https://raw.githubusercontent.com/folgore95/subwalls/master/viktoria1.png</link>
         <preview>https://raw.githubusercontent.com/folgore95/subwalls/master/viktoria1.png</preview>
